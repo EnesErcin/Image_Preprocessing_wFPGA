@@ -1,0 +1,16 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+C:/Users/Enes/Desktop/ImageBluring/ImageBluring.gen/sources_1/bd/Bram/hdl/Bram_wrapper.vhd,1659276174,vhdl,,,,bram_wrapper,,,,,,,,
+C:/Users/Enes/Desktop/ImageBluring/ImageBluring.ip_user_files/bd/Bram/ip/Bram_blk_mem_gen_0_0/sim/Bram_blk_mem_gen_0_0.v,1659276258,verilog,,C:/Users/Enes/Desktop/ImageBluring/ImageBluring.ip_user_files/bd/Bram/ip/Bram_blk_mem_gen_1_0/sim/Bram_blk_mem_gen_1_0.v,,Bram_blk_mem_gen_0_0,,,,,,,,
+C:/Users/Enes/Desktop/ImageBluring/ImageBluring.ip_user_files/bd/Bram/ip/Bram_blk_mem_gen_1_0/sim/Bram_blk_mem_gen_1_0.v,1659276259,verilog,,C:/Users/Enes/Desktop/ImageBluring/ImageBluring.srcs/sim_1/new/verilog_wrapper.v,,Bram_blk_mem_gen_1_0,,,,,,,,
+C:/Users/Enes/Desktop/ImageBluring/ImageBluring.ip_user_files/bd/Bram/sim/Bram.vhd,1659276174,vhdl,,,,bram,,,,,,,,
+C:/Users/Enes/Desktop/ImageBluring/ImageBluring.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,
+C:/Users/Enes/Desktop/ImageBluring/ImageBluring.srcs/sim_1/new/verilog_wrapper.v,1659525111,verilog,,,,verilog_wrapper,,,,,,,,
+C:/Users/Enes/Desktop/ImageBluring/ImageBluring.srcs/sources_1/new/Controller.vhd,1659515137,vhdl,,,,controllerr_f,,,,,,,,
+C:/Users/Enes/Desktop/ImageBluring/ImageBluring.srcs/sources_1/new/Img_Builder.vhd,1659521354,vhdl,,,,img_builder,,,,,,,,
+C:/Users/Enes/Desktop/ImageBluring/ImageBluring.srcs/sources_1/new/MemoryInterface.vhd,1659272298,vhdl,,,,memoryinterface,,,,,,,,
+C:/Users/Enes/Desktop/ImageBluring/ImageBluring.srcs/sources_1/new/Sorter.vhd,1659276516,vhdl,,,,sorter,,,,,,,,
+C:/Users/Enes/Desktop/ImageBluring/ImageBluring.srcs/sources_1/new/Top_tb.vhd,1659523609,vhdl,,,,main_tb,,,,,,,,
+C:/Users/Enes/Desktop/ImageBluring/ImageBluring.srcs/sources_1/new/mydatatype.vhd,1659271908,vhdl,C:/Users/Enes/Desktop/ImageBluring/ImageBluring.srcs/sources_1/new/Top_tb.vhd,,,mydatatype,,,,,,,,
